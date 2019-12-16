@@ -24,7 +24,7 @@
 <tbody>
 <tr>
 <td align="left">Determination of radius of curvature of a spherical surface</td>
-<td align="center"><a href="https://wow.link/P1E1to3">Download</a></td>
+<td align="center" rowspan="3"><a href="https://wow.link/P1E1to3">Download</a></td>
 </tr>
 <tr>
 <td align="left">Determination of the mass of an object with the help of a common balance by the method of oscillation</td>
@@ -163,6 +163,6 @@
 </html>
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFByYWN0aWNhbHNcbmF1dG
-hvcjogU2hhZCBBaG1lZCBSYWl5YW5cbiIsImhpc3RvcnkiOlst
-MTI3OTg5OTE0NywtOTM2NjM3NTI3XX0=
+hvcjogU2hhZCBBaG1lZCBSYWl5YW5cbiIsImhpc3RvcnkiOlsy
+MTI2MTUzMTc5LC05MzY2Mzc1MjddfQ==
 -->
