@@ -83,7 +83,7 @@
 </tr>
 <tr>
 <td align="left">Determination of heat of solution of Oxalic Acid by calorimeter</td>
-<td align="center">Will be available soon</td>
+<td align="center">Will be available this afternoon</td>
 </tr>
 </tbody>
 </table><blockquote>
@@ -163,6 +163,6 @@
 </html>
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFByYWN0aWNhbHNcbmF1dG
-hvcjogU2hhZCBBaG1lZCBSYWl5YW5cbiIsImhpc3RvcnkiOlsx
-NjYzNzk0MTY1LC0xOTExODgxNTAxXX0=
+hvcjogU2hhZCBBaG1lZCBSYWl5YW5cbiIsImhpc3RvcnkiOlst
+NTQxNjA5NTc4LC0xOTExODgxNTAxXX0=
 -->
