@@ -102,7 +102,8 @@
 <td>Observation of permanent slide of <em>Ulothrix</em></td>
 <td><a href="https://wow.link/7Fp">Download</a></td>
 </tr>
-  <td>Observation of morphological structure of fruit body of <em>Agaricus</em></td>
+<tr>
+  <td>Observation of <em>Pteris Gametophytemorphological structure of fruit body of <em>Agaricus</em></td>
 <td><a href="https://wow.link/8Fp">Download</a></td>
 </tr>
     <tr>
@@ -110,7 +111,7 @@
 <td><a href="https://wow.link/9Fp">Download</a></td>
 </tr>
 <tr>
-<td>Observation of <em>Pteris Gametophyte</em></td>
+<td>Observation of morphological structure of fruit body of <em>Agaricus<em>Pteris Gametophyte</em></td>
 <td><a href="https://wow.link/wFp">Download</a></td>
 </tr>
 <tr>
@@ -161,5 +162,5 @@
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFByYWN0aWNhbHNcbmF1dG
 hvcjogU2hhZCBBaG1lZCBSYWl5YW5cbiIsImhpc3RvcnkiOlst
-MTkxMTg4MTUwMV19
+NDE2NTc2NDAzLC0xOTExODgxNTAxXX0=
 -->
