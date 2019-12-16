@@ -12,6 +12,7 @@
   <div class="stackedit__html"><h1 id="hsc-practical-list">HSC PRACTICAL LIST</h1>
 <p>Welcome to this Slack Edit markdown page. Feel free to browse here and down the resources you need.</p>
 <h2 id="physics-1st-paper-practicals">Physics 1st Paper Practicals</h2>
+<body>Here are the links to the experiments done in the </body>
 
 <table>
 <thead>
@@ -101,23 +102,24 @@
 <tbody>
 <tr>
 <td>Observation of permanent slide of <em>Ulothrix</em></td>
-<td><a href="">Download</a></td>
+<td><a href="https://wow.link/7Fp">Download</a></td>
 </tr>
 <tr>
-<td>Observation of <em>Pteris Gametophyte</em></td>
-<td><a href="">Download</a></td>
+  <td>Observation of <em>Pteris Gametophytemorphological structure of fruit body of <em>Agaricus</em></td>
+<td><a href="https://wow.link/8Fp">Download</a></td>
 </tr>
-<tr>
+    <tr>
 <td>Observation of <em>Pteris Sporophyte</em></td>
-<td><a href="">Download</a></td>
+<td><a href="https://wow.link/9Fp">Download</a></td>
 </tr>
 <tr>
-<td>Observation of morphological structure of fruit body of <em>Agaricus</em></td>
-<td><a href="">Download</a></td>
+<td>Observation of morphological structure of fruit body of <em>Agaricus<em>Pteris Gametophyte</em></td>
+<td><a href="https://wow.link/wFp">Download</a></td>
 </tr>
+<tr>
 <tr>
 <td>Identification of the family Malvaceae</td>
-<td><a href="">Download</a></td>
+<td><a href="https://wow.link/eFp">Download</a></td>
 </tr>
 </tbody>
 </table><h2 id="biology-2nd-paper-prcticals">Biology 2nd Paper Prcticals</h2>
@@ -162,5 +164,5 @@
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFByYWN0aWNhbHNcbmF1dG
 hvcjogU2hhZCBBaG1lZCBSYWl5YW5cbiIsImhpc3RvcnkiOlst
-OTM2NjM3NTI3XX0=
+MTM5OTQzMDE1NSwtOTM2NjM3NTI3XX0=
 -->
