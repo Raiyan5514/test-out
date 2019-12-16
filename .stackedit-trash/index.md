@@ -12,7 +12,7 @@
   <div class="stackedit__html"><h1 id="hsc-practical-list">HSC PRACTICAL LIST</h1>
 <p>Welcome to this Slack Edit markdown page. Feel free to browse here and down the resources you need.</p>
 <h2 id="physics-1st-paper-practicals">Physics 1st Paper Practicals</h2>
-<body>Here are the links to the experiments done in the </body>
+<body>Here are the links to the experiments done in the college lab. The available links are for download.</body>
 
 <table>
 <thead>
@@ -164,5 +164,5 @@
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFByYWN0aWNhbHNcbmF1dG
 hvcjogU2hhZCBBaG1lZCBSYWl5YW5cbiIsImhpc3RvcnkiOlst
-MTM5OTQzMDE1NSwtOTM2NjM3NTI3XX0=
+MTI3OTg5OTE0NywtOTM2NjM3NTI3XX0=
 -->
