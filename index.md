@@ -28,9 +28,11 @@
 </tr>
 <tr>
 <td align="left">Determination of the mass of an object with the help of a common balance by the method of oscillation</td>
+<td></td>
 </tr>
 <tr>
 <td align="left">Determination of Potential Energy of a Spring</td>
+<td></td>
 </tr>
 <tr>
 <td align="left">To determine the spring constant of a spring (Neglecting mass of spring)</td>
@@ -161,6 +163,6 @@
 </html>
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFByYWN0aWNhbHNcbmF1dG
-hvcjogU2hhZCBBaG1lZCBSYWl5YW5cbiIsImhpc3RvcnkiOlst
-NDE2NTc2NDAzLC0xOTExODgxNTAxXX0=
+hvcjogU2hhZCBBaG1lZCBSYWl5YW5cbiIsImhpc3RvcnkiOlsx
+NjYzNzk0MTY1LC0xOTExODgxNTAxXX0=
 -->
